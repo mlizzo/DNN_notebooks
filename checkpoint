@@ -1,0 +1,2 @@
+model_checkpoint_path: "ATLAS_selection_SigVsBkg_emu_weights_1"
+all_model_checkpoint_paths: "ATLAS_selection_SigVsBkg_emu_weights_1"
